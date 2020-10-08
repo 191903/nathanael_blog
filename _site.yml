@@ -15,7 +15,7 @@ base_url: 191903.github.io/nathanael_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
-      #disqus: 
+      #disqus:
 output:
   distill::distill_article:
     css: style.css
