@@ -1,0 +1,41 @@
+---
+title: "article 1"
+description: |
+  Florida's falling lizards are getting used to cold winter temperatures
+author:
+  - name: Katie Hunt
+    url: {}
+date: 10-25-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+During a cold snap in southern Florida in January, residents were warned to watch out for paralyzed lizards falling from trees.
+The lowest temperatures in a decade stunned and immobilized the lizards, causing them to lose their grip from their usually safe perches in trees.
+Comatose lizards littering the sidewalk might have been annoying for residents. For scientists, however, it was a unique opportunity to understand how the lizards, many of which aren't native to the region, are affected by extreme climate events. It turns out these reptiles are more adaptable to extreme temperatures than the researchers had thought, they said.
+"When air temperatures drop below a critical limit, lizards lose the ability to move. Most commonly, the lowest daily temperatures occur at night while many diurnal (day-active) lizards are asleep," lead study author and biologist James Stroud, a postdoctoral research associate at Washington University in St. Louis, told CNN.
+"As many diurnal lizards typically sleep above the ground, perched safely in and among leaves and branches, they may lose their grip if temperatures drop below this critical functioning limit."
+The January cold snap wasn't the first time Floridians have faced lizards dropping out of trees. It can happen anytime the temperature gets below 45 degrees Fahrenheit.
+Stroud and his collaborators in late January and early February collected 63 lizards from six different species around Miami, five of which were tropical species and not native to southern Florida.
+The researchers took the lizards back to the lab at the University of Miami and individually cooled the animals until each one was too cold to respond to a gentle prod on its back limb.
+"At this point, the lizard was removed from the cooler and the internal body temperature of the lizard was recorded as its lower temperature limit," Stroud said.
+"Lizards were then allowed to return to room temperature; every single lizard in this study recovered back to full health after just a few minutes."
+The team repeated this 10 weeks later to rule out a very quick, individual-level response.
+The scientists were then able to compare the temperatures to earlier data they had gathered in 2016 for a study that forecasted how far north the non-native lizards could potentially disperse to from where they were first introduced in Miami, south Florida.
+The lizard community, the researchers discovered, had responded in an unexpected way to the cold snap: All of them could withstand cold temperatures down to about 42 degrees Fahrenheit, regardless of their previous ability to tolerate cold.
+Central American brown basilisks (Basiliscus vittatus) are among the members of a lizard community that converged on a lower temperature tolerance after a cold snap in Miami.
+"A major unexpected result of this study was that all species converged on the same new, lower level of thermal tolerance," Stroud said.
+"While there was great variation in temperature tolerance before the cold event -- some, like the large-bodied brown basilisk, were very intolerant of low temperatures, while others like the Puerto Rican crested anole were more robust -- we observed that all species could now tolerate, on average, the same lowest temperature."
+Stroud said from this study, which published Tuesday in the journal Biology Letters, it wasn't clear whether the lizards were adapting to the lower temperatures in a way that could be inherited by their offspring or whether it was a temporary adjustment to their physiological limits -- acclimation.
+"If the changes in temperature tolerance that we observed are the result of adaptation, then it provides a fascinating insight into how evolution may need to be better incorporated into understanding species distributions," Stroud told CNN.
+
+By Katie Hunt, CNN
+Updated 2318 GMT (0718 HKT) October 20, 2020
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+

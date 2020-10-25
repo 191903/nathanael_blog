@@ -1,5 +1,35 @@
 [
   {
+    "path": "posts/2020-10-25-article-1/",
+    "title": "article 1",
+    "description": "Florida's falling lizards are getting used to cold winter temperatures",
+    "author": [
+      {
+        "name": "Katie Hunt",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-25",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-25T17:00:31+01:00"
+  },
+  {
+    "path": "posts/about/",
+    "title": "about me",
+    "description": {},
+    "author": [
+      {
+        "name": "Nathanael Cossez",
+        "url": {}
+      }
+    ],
+    "date": "2020-10-25",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-25T16:48:32+01:00"
+  },
+  {
     "path": "posts/2019-10-24-bacteria-antobiotics/",
     "title": "Bacterium adaptation",
     "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
@@ -24,7 +54,7 @@
       "Adaptation"
     ],
     "preview": "posts/2019-10-24-bacteria-antobiotics/images/jpg120051fa.png",
-    "last_modified": "2020-10-08T11:45:18+02:00",
+    "last_modified": "2020-10-25T16:08:59+01:00",
     "preview_width": 3333,
     "preview_height": 2667
   },
@@ -53,22 +83,7 @@
       "Rodent"
     ],
     "preview": {},
-    "last_modified": "2020-10-08T11:45:18+02:00"
-  },
-  {
-    "path": "posts/about/",
-    "title": "About Me",
-    "description": {},
-    "author": [
-      {
-        "name": "___",
-        "url": {}
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-10-08T11:45:18+02:00"
+    "last_modified": "2020-10-25T16:08:59+01:00"
   },
   {
     "path": "posts/meal/",
@@ -86,6 +101,6 @@
       "M.E.A.L."
     ],
     "preview": {},
-    "last_modified": "2020-10-08T11:45:18+02:00"
+    "last_modified": "2020-10-25T16:08:59+01:00"
   }
 ]
