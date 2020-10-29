@@ -11,6 +11,8 @@ output:
     self_contained: false
 ---
 
+## Florida's falling lizards are getting used to cold winter temperatures
+
 During a cold snap in southern Florida in January, residents were warned to watch out for paralyzed lizards falling from trees.
 The lowest temperatures in a decade stunned and immobilized the lizards, causing them to lose their grip from their usually safe perches in trees.
 Comatose lizards littering the sidewalk might have been annoying for residents. For scientists, however, it was a unique opportunity to understand how the lizards, many of which aren't native to the region, are affected by extreme climate events. It turns out these reptiles are more adaptable to extreme temperatures than the researchers had thought, they said.
@@ -33,6 +35,20 @@ Stroud said from this study, which published Tuesday in the journal Biology Lett
 By Katie Hunt, CNN
 Updated 2318 GMT (0718 HKT) October 20, 2020
 
+## Vocabulary
+
+ Word from the text | Synonym/definition in english | French translation
+------------------- | ------------------------------|-------------------
+     cold snap      |	              /               |	 vague de froid 
+     stunned   	    |             dazed	            |  étourdi
+     grip	          |             grasp	            |  prise
+
+## Analysis
+
+link of the article
+[link](https://edition.cnn.com/2020/10/20/americas/falling-lizards-florida-scn-trnd/index.html)
+
+ word count: 627
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
