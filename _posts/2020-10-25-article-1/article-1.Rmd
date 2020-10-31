@@ -49,6 +49,17 @@ link of the article
 [link](https://edition.cnn.com/2020/10/20/americas/falling-lizards-florida-scn-trnd/index.html)
 
  word count: 627
+ 
+analysis ask     | analysis answer
+---------------- | -------------
+Researchers?     | James Stroud research associate at Washington University in St. Louis
+Published in? when (if mentioned)? | /
+General topic    | How lizards are getting used to cold winter temperatures
+Procedure/ what was examined | 1.	Cooled the animals until each one was too cold to respond to a gentle prod on its back limb. 2.	Internal body temperature of the lizard  record as its lower temperature limit.
+Conclusions/ discovery | All of the lizards could withstand cold temperatures down to about 42 degrees
+Remaining questions | /
+
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
