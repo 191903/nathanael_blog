@@ -14,6 +14,7 @@ navbar:
 base_url: 191903.github.io/nathanael_blog/
 collections:
     posts:
+      disqus: nathanael-blog
       share: [twitter, linkedin, facebook]
       #disqus:
 output:
