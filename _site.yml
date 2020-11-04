@@ -11,7 +11,7 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/191903/nathanael_blog.git
-base_url: 191903.github.io/nathanael_blog/
+base_url: https://191903.github.io/nathanael_blog/
 collections:
     posts:
       disqus: nathanael-blog

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
-    <loc>191903.github.io/nathanael_blog/</loc>
+    <loc>https://191903.github.io/nathanael_blog/</loc>
     <lastmod>2020-10-25T16:08:59+01:00</lastmod>
   </url>
   <url>
-    <loc>191903.github.io/nathanael_blog/posts/2020-10-25-article-1/</loc>
+    <loc>https://191903.github.io/nathanael_blog/posts/2020-10-25-article-1/</loc>
     <lastmod>2020-10-31T12:02:17+01:00</lastmod>
   </url>
   <url>
-    <loc>191903.github.io/nathanael_blog/posts/about/</loc>
+    <loc>https://191903.github.io/nathanael_blog/posts/about/</loc>
     <lastmod>2020-10-25T16:48:32+01:00</lastmod>
   </url>
   <url>
-    <loc>191903.github.io/nathanael_blog/posts/2019-10-24-bacteria-antobiotics/</loc>
+    <loc>https://191903.github.io/nathanael_blog/posts/2019-10-24-bacteria-antobiotics/</loc>
     <lastmod>2020-10-25T16:08:59+01:00</lastmod>
   </url>
   <url>
-    <loc>191903.github.io/nathanael_blog/posts/2019-10-25-biggest-rodent/</loc>
+    <loc>https://191903.github.io/nathanael_blog/posts/2019-10-25-biggest-rodent/</loc>
     <lastmod>2020-10-25T16:08:59+01:00</lastmod>
   </url>
   <url>
-    <loc>191903.github.io/nathanael_blog/posts/meal/</loc>
+    <loc>https://191903.github.io/nathanael_blog/posts/meal/</loc>
     <lastmod>2020-10-25T16:08:59+01:00</lastmod>
   </url>
 </urlset>
