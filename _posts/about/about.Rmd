@@ -3,6 +3,8 @@ title: "about me"
 author:
   - name: "Nathanael Cossez" 
 date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
 output: distill::distill_article
 ---
 

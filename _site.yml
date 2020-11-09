@@ -5,12 +5,16 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "M.E.A.L."
-      href: "posts/meal/index.html"
-    - text: "About Me"
-      href: "posts/about/index.html"
-    - icon: fab fa-github
-      href: https://github.com/191903/nathanael_blog.git
+    - text: "English"
+      menu: 
+        - text: "Portfolio"
+          href: Portfolio.html
+        - text: "M.E.A.L."
+          href: "posts/meal/index.html"
+        - text: "About Me"
+          href: "posts/about/index.html"
+        - icon: fab fa-github
+          href: https://github.com/191903/nathanael_blog.git
 base_url: https://191903.github.io/nathanael_blog/
 collections:
     posts:
