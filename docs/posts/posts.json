@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2020-11-25-graphicdescription/",
+    "title": "Graphic_description",
+    "description": "In this article we will study the difference of perimeter of different classes of sea urchins.",
+    "author": [
+      {
+        "name": "Nathanaël Cossez",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-25",
+    "categories": [
+      "Data Sciences I"
+    ],
+    "preview": "posts/2020-11-25-graphicdescription/graphicdescription_files/figure-html5/graphique-1.png",
+    "last_modified": "2020-11-25T12:57:50+01:00",
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
     "path": "posts/meal/",
     "title": "My English Activity Log : MEAL",
     "description": {},

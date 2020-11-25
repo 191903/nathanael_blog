@@ -1,0 +1,40 @@
+---
+title: "Graphic_description"
+description: |
+  In this article we will study the difference of perimeter of different classes of sea urchins.
+author:
+  - name: Nathanaël Cossez
+    url: {}
+date: 11-25-2020
+categories:
+  - "Data Sciences I"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+The data used in this study come from the image analysis of zooplankton from Tulear (Madagascar).
+
+```{r graphique}
+
+SciViews::R
+
+data <- read("zooplankton", package = "data.io")
+
+zooplankton_sub <- filter(zooplankton, class %in% c("Decapod", "Calanoid", "Cyclopoid", "Appendicularian"))
+
+chart(zooplankton_sub, ~ perimeter %fill=% class | class) +
+  geom_histogram(data = select(zooplankton_sub, -class), fill = "grey", bins = 25) + 
+  geom_histogram(show.legend = TRUE, bins = 25) +
+  ylab("Effectifs") +
+  scale_fill_viridis_d()
+
+```
+
+We can see that the calanoids are the sea urchins studied with the largest perimeter on average and that the decapods are those with the smallest average perimeter.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
