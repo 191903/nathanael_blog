@@ -20,6 +20,8 @@ output: distill::distill_article
 
 >Article 3
 
+[New species of gecko found in the Eastern Ghats](https://191903.github.io/nathanael_blog/posts/2020-12-07-article-3/)
+
 >Article 4
 
 >Article 5
