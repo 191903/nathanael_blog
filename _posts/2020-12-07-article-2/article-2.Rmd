@@ -1,9 +1,9 @@
 ---
 title: "article 2"
 description: |
-  A short description of the post.
+  Research: flashy lizards are more attractive to mates and to predators
 author:
-  - name: Nathanaël Cossez
+  - name: Jennifer Micale
     url: {}
 date: 12-07-2020
 categories:
@@ -13,28 +13,55 @@ output:
     self_contained: false
 ---
 
+## Research: flashy lizards are more attractive to mates and to predators
+
+November 12, 2020
+
+In the lizard world, flashy colors attract the interest of females looking for mates. But they can make colorful males desirable to other eyes, too — as lunch.
+
+Assistant Research Professor of Biological Sciences Lindsey Swierk is the first author of an article in the journal Evolutionary Ecology on the topic. Called “Intrasexual variability of a conspicuous social signal influences attach rate of lizard models in an experimental test,” the article details an experiment involving clay models of water anoles (Anolis aquaticus), a species of lizard only found in Costa Rica and a small slice of Panama. The researchers conducted the experiment at the Las Cruces Biological Station in Costa Rica, which is one of the Organization for Tropical Studies’ field stations.
+
+To attract females’ notice, male anoles have dewlaps: colorful extendable flaps of skin under their chins. In most species of anole, dewlaps evolved to be as noticeable as possible within the environment, given an environment’s predominant colors and lighting conditions.
+
+“Even so, we see a lot of variation within a species in just how bright dewlaps are,” Swierk said.
+
+While some water anoles have dramatic red-orange flaps, others have more muted colors, more of a dull brownish-red. Researchers wanted to determine the effect these color variations had on their risk of predation.
+While it’s widely assumed that flashier males will attract more attention from predators, few studies actually test this assumption. Logistics may be a factor: Researchers have to separate the effects of sexual colors from other aspects of a creature’s body and behavior, a difficult task when using real animals. As a result, many studies show correlation but not causation.
+
+To prove that flashier males face greater risks of being attacked, the researchers created clay models with colored dewlaps — some bright, some more muted. Many visual predators use a stereotyped “search image” to identify prey, so the models only had to approximate anoles’ general size, color and shape. The dewlap color, however, required special attention.
+
+“Because different animals have different visual sensitivities than we do as humans, getting the colors right was an important consideration in our model design,” Swierk explained. “We ran some pilot trials before this experiment to make sure our models were convincing as ‘lizards’ — and they certainly seemed to be, as many birds and other lizards took bites out of them!”
+
+Researchers were able to identity predators from bite marks in the clay models. They included many species of bird, including the strikingly beautiful motmot with its serrated beak. Basilisks and whiptail lizards were also among the likely attackers. The results proved that flashier lizards really do end up as lunch more often.
+If bright colors have deadly consequences, why do female anoles prefer them? One answer is that brighter males have either high-quality genetic material or resources that allow them to handle the risk of getting eaten, Swierk explained.
+
+“Because every individual’s evolutionary ‘mission’ in life is to pass on as many copies of its genes as it can, conspicuous traits like these can evolve if they give an individual a high level of reproductive success -- even if the flashy trait ends up killing them in the end,” Swierk said.
+
+
 ## Vocabulary
 
  Word from the text | Synonym/definition in english | French translation
 ------------------- | ------------------------------|-------------------
-           |	                          |	 
-        	    |                         |  
-     	          |            	            |  
+     mates      |	         partner                 |	 compagnons
+        conspicuous	    |         noticeable     |  visible
+     	   clay       |           earth 	            |  argile
+     	   dewlaps     |   jowl   | fanons
+
 
 ## Analysis
 
 link of the article
-[link]()
+[link](https://www.binghamton.edu/news/story/2766/research-flashy-lizards-are-more-attractive-to-mates-and-to-predators)
 
- word count: 
+ word count: 551
  
 analysis ask     | analysis answer
 ---------------- | -------------
-Researchers?     | 
-Published in? when (if mentioned)? | /
-General topic    | 
-Procedure/ what was examined | 
-Conclusions/ discovery | 
+Researchers?     | Lindsey Swierk
+Published in? when (if mentioned)? | November 12, 2020 in "Science & Technology, Harpur"
+General topic    | Researchers wanted to determine if flashy lizards are more attractive to mates and to predators.
+Procedure/ what was examined |   The experiment used clay models of water anoles (Anolis aquaticus).Researchers wanted to determine the effect of color variations had on their risk of predation.
+Conclusions/ discovery | 1)The results proved that flashier lizards really do end up as lunch more often. 2)Why  do female anoles prefer bright colors?Because brighter males have either high-quality genetic material or resources that allow them to handle the risk of getting eaten
 Remaining questions | /
 
 ```{r setup, include=FALSE}
