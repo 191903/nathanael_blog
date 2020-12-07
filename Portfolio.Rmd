@@ -1,7 +1,7 @@
 ---
 title: "Portfolio"
 author:
-  - name: "Nathanael ossez"
+  - name: "Nathanael Cossez"
 date: "`r Sys.Date()`"
 categories:
   - "English for science"
