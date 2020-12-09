@@ -36,10 +36,10 @@
   {
     "path": "posts/2020-12-07-article-4/",
     "title": "article 4",
-    "description": "A short description of the post.",
+    "description": "These Four-Foot Lizards Will Eat Anything and They’re Invading the Southeastern U.S.",
     "author": [
       {
-        "name": "Nathanaël Cossez",
+        "name": "Theresa Machemer",
         "url": {}
       }
     ],
@@ -48,7 +48,7 @@
       "English for Science"
     ],
     "preview": {},
-    "last_modified": "2020-12-07T11:18:46+01:00"
+    "last_modified": "2020-12-09T20:09:38+01:00"
   },
   {
     "path": "posts/2020-11-25-graphicdescription/",
