@@ -13,7 +13,7 @@ output:
     self_contained: false
 ---
 
-#STUDY REVEALS SURPRISING HISTORY OF WORLD’S LARGEST LIZARD
+# STUDY REVEALS SURPRISING HISTORY OF WORLD’S LARGEST LIZARD
 
 ![](../image/article 5.jpg)
 
