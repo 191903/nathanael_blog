@@ -10,7 +10,7 @@ categories:
   - "English for Science"
 output:
   distill::distill_article:
-    self_contained: false
+    self_contained: TRUE
 ---
 
 # These Four-Foot Lizards Will Eat Anything and They’re Invading the Southeastern U.S.

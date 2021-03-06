@@ -10,7 +10,7 @@ categories:
   - "English for Science"
 output:
   distill::distill_article:
-    self_contained: false
+    self_contained: TRUE
 ---
 
 ## Research: flashy lizards are more attractive to mates and to predators

@@ -10,12 +10,14 @@ categories:
   - "English for Science"
 output:
   distill::distill_article:
-    self_contained: false
+    self_contained: TRUE
 ---
 
 # STUDY REVEALS SURPRISING HISTORY OF WORLD’S LARGEST LIZARD
 
 ![](../image/article 5.jpg)
+(komodo dragon. image: DR Damien Esquerré,ANU)
+
 
 The unusual breeding history of the Earth's largest living lizard - the Komodo dragon - has been laid bare in a new study from The Australian National University. 
 The Komodo dragon is best known for its size and hunting skills, reaching up to three metres long and preying on buffaloes, deer, and even the occasional human. But that's not all that sets it apart. 
