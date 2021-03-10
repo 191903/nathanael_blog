@@ -1,0 +1,47 @@
+---
+title: "article 7"
+description: |
+  x
+author:
+  - name: x
+    url: {}
+date: 03-04-2021
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: TRUE
+---
+
+## Vocabulary
+
+ Word from the text | Synonym/definition in english | French translation
+------------------- | ------------------------------|-------------------
+          |	                          |	 
+       	    |                     | 
+     	         |            	          |  
+     	   |            |
+     	    
+
+## Analysis
+
+link of the article
+[link]()
+
+ word count: 
+ 
+analysis ask     | analysis answer
+---------------- | -------------
+Researchers?     | 
+Published in? when (if mentioned)? | 
+General topic    | 
+Procedure/ what was examined |
+Conclusions/ discovery | 
+Remaining questions | 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+

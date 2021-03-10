@@ -5,7 +5,7 @@ description: |
 author:
   - name: Jennifer Micale
     url: {}
-date: 12-07-2020
+date: 11-12-2020
 categories:
   - "English for Science"
 output:
@@ -43,7 +43,7 @@ If bright colors have deadly consequences, why do female anoles prefer them? One
 ## Vocabulary
 
  Word from the text | Synonym/definition in english | French translation
-------------------- | ------------------------------|-------------------
+------------------- | ------------------------------ | -------------------
      mates      |	         partner                 |	 compagnons
         conspicuous	    |         noticeable     |  visible
      	   clay       |           earth 	            |  argile

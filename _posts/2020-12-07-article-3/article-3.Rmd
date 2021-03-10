@@ -5,7 +5,7 @@ description: |
 author:
   - name: Shuvabrata Garai 
     url: {}
-date: 12-07-2020
+date: 11-28-2020
 categories:
   - "English for Science"
 output:
@@ -44,7 +44,7 @@ The team notes that more work is needed in the surrounding areas to determine ho
 ## Vocabulary
 
  Word from the text | Synonym/definition in english | French translation
-------------------- | ------------------------------|-------------------
+------------------- | ------------------------------ | -------------------
   widespread  |	           common               |	 répendu
       survey  	    |              look over           |  enquêter
     recognise  |            accept	            |  reconnaître

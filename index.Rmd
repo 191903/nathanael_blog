@@ -4,9 +4,10 @@ site: distill::distill_website
 listing: posts
 ---
 
-![](../nathanael_blog/_posts/image/couverture.jpg)
-
 ```{r, echo = FALSE , eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post
 ```
 
+# Welcome to my lizard's blog !
+
+![](images/couverture.jpg)

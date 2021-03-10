@@ -1,7 +1,7 @@
 ---
 title: "My English Activity Log : MEAL"
 author:
-  - name: "___" 
+  - name: "Nathanaël Cossez" 
 date: "`r Sys.Date()`"
 categories:
   - "English for Science"
@@ -24,5 +24,14 @@ output: distill::distill_article
 
 - Nov. 4th: I listened to all the repertory of the bittles band.
 
+- Dec. 10th to feb. 1st: I studied and passed my exams.
 
+- feb. 5th: I read the treasure island in EnglishI read the treasure island in English
 
+- feb. 10th: I chatted on an english music forum about making beats from scratch
+
+- feb. 15th: I tried to write a song in english. It's a fail.
+
+- feb. 25th: I watched an anime in VO with english subtitle. The anime is "sky high survival"
+
+- mar. 3th : I listened the last album of Ed Sheeran and tried to understand all the lyrics.

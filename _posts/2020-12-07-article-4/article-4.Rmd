@@ -5,7 +5,7 @@ description: |
 author:
   - name: Theresa Machemer
     url: {}
-date: 12-07-2020
+date: 11-19-2020
 categories:
   - "English for Science"
 output:
@@ -16,6 +16,7 @@ output:
 # These Four-Foot Lizards Will Eat Anything and They’re Invading the Southeastern U.S.
 
 ![](../image/article 4.jpg)
+
 ### Tegus first appeared in the wild of southern Florida a decade ago, but now they’re in Georgia and South Carolina, too
 (Black-and-white tegus are more resistant to cold than most reptiles because they can raise their body temperature about 50 degrees Fahrenheit above that of the environment)
 
@@ -49,7 +50,7 @@ November 19, 2020
 ## Vocabulary
 
  Word from the text | Synonym/definition in english | French translation
-------------------- | ------------------------------|-------------------
+------------------- | ------------------------------ | -------------------
    to raise       |	               elevate           |	 élever
         heist	    |           holdup              |  braquage
      	   chow down       |            	 eat up           |  dévorer
