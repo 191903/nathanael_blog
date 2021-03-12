@@ -32,6 +32,10 @@ output: distill::distill_article
 
 >Article 6
 
+[Inside the Sad and Disgusting Black Market Trade in Monitor Lizard Penis](https://191903.github.io/nathanael_blog/posts/2021-03-10-article-6/)
+
 >Article 7
+
+[New Australian fossil lizard](https://191903.github.io/nathanael_blog/posts/2021-03-10-article-7/)
 
 >Conclusion
