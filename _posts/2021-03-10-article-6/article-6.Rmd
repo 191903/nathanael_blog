@@ -67,10 +67,11 @@ Jose says that in the absence of a stringent legal system, his job as a crime co
 
  Word from the text | Synonym/definition in english | French translation
 ------------------- | ------------------------------ | -------------------
-          |	                          |	 
-       	    |                     | 
-     	         |            	          |  
-     	   |            |
+      gruesome    |	             horrible             |	 horrible
+       roots	    |          /           | racine
+     	 monitor lizard         |            	  /        |  varan
+     altars	   |       /     | autels
+     
      	    
 
 ## Analysis
@@ -82,12 +83,12 @@ link of the article
  
 analysis ask     | analysis answer
 ---------------- | -------------
-Researchers?     | 
-Published in? when (if mentioned)? | 
-General topic    | 
-Procedure/ what was examined |
-Conclusions/ discovery | 
-Remaining questions | 
+Researchers?     | Jose Louies
+Published in? when (if mentioned)? | /
+General topic    | lizard penis black market
+Procedure/ what was examined | How Jose Louies contributed reduce the lizard penis black market
+Conclusions/ discovery | there is still lizard penis black market but it is significantly lower compared to before
+Remaining questions | /
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
