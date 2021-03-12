@@ -54,11 +54,10 @@ Inspired generations of Australian herpetologists, Professor Bull's wide-ranging
 
  Word from the text | Synonym/definition in english | French translation
 ------------------- | ------------------------------|-------------------
-          |	                          |	 
-       	    |                     | 
-     	         |            	          |  
-     	   |            |
-     	    
+  sifted        |	           examine               |	 tamisé/passer au crible
+     remains  	    |            residue         | restes
+     unearthed	         |            excavated	          |  déterré
+       unveiled  |      uncover      |      révéler      
 
 ## Analysis
 
