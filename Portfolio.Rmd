@@ -38,4 +38,12 @@ output: distill::distill_article
 
 [New Australian fossil lizard](https://191903.github.io/nathanael_blog/posts/2021-03-10-article-7/)
 
+>Article bonus 1
+
+[A mountain lizard in Peru broke the reptilian altitude record]()
+
+>Article bonus 2
+
+[A new chameleon species may be the world’s tiniest reptile]()
+
 >Conclusion
