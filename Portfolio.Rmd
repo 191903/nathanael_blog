@@ -40,10 +40,10 @@ output: distill::distill_article
 
 >Article bonus 1
 
-[A mountain lizard in Peru broke the reptilian altitude record]()
+[A mountain lizard in Peru broke the reptilian altitude record](https://191903.github.io/nathanael_blog/posts/2021-03-17-article-bonus-1/)
 
 >Article bonus 2
 
-[A new chameleon species may be the world’s tiniest reptile]()
+[A new chameleon species may be the world’s tiniest reptile](https://191903.github.io/nathanael_blog/posts/2021-03-17-article-bonus-2/)
 
 >Conclusion
