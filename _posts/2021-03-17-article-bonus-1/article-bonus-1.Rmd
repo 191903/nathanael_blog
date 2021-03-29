@@ -39,9 +39,9 @@ The research group’s next steps are to verify the identification of the lizard
 
  Word from the text | Synonym/definition in english | French translation
 ------------------- | ------------------------------ | -------------------
-           |	                             |	 
-        	    |                         |  
-               |                         |  
+      tentatively     |	       provisionary               |	 provisoirement
+        retreated up	    |           /              |  reculé
+
 
 ## Analysis
 
@@ -52,12 +52,12 @@ link of the article
  
 analysis ask     | analysis answer
 ---------------- | -------------
-Researchers?     | 
-Published in? when (if mentioned)? | 
-General topic    | 
-Procedure/ what was examined | 
-Conclusions/ discovery | 
-Remaining questions | 
+Researchers?     | zoologist José Cerdeña and colleagues 
+Published in? when (if mentioned)? | /
+General topic    | the reptilian altitude record
+Procedure/ what was examined | /
+Conclusions/ discovery | the title of world’s highest altitude reptile  (5,400 meters in elevation) is awarded to a species of Liolaemus lizard
+Remaining questions | Next steps are to verify the identification of the lizard with physical and genetic analysis
 
 
 
