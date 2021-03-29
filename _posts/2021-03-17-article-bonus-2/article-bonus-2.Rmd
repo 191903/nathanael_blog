@@ -35,10 +35,11 @@ But the loss of forests and damage to other wild habitat may threaten the future
 
  Word from the text | Synonym/definition in english | French translation
 ------------------- | ------------------------------ | -------------------
-           |	                             |	 
-        	    |                         |  
-               |                         |  
-
+       snout     |	               nose              |	 museau
+        dubbed 	    |           call              |  surnommé
+          roam     |              stray           |  errer
+       scour     |	               travel              |	 parcourir
+       mites |	               /              |	 acariens
 ## Analysis
 
 link of the article
@@ -48,12 +49,12 @@ link of the article
  
 analysis ask     | analysis answer
 ---------------- | -------------
-Researchers?     | 
-Published in? when (if mentioned)? | 
-General topic    | 
-Procedure/ what was examined | 
-Conclusions/ discovery | 
-Remaining questions | 
+Researchers?     | Frank Glaw
+Published in? when (if mentioned)? | January 28 in Scientific Reports.
+General topic    | the smallest reptile on Earth
+Procedure/ what was examined | A forest-dwelling chameleon *Brookesia nana*
+Conclusions/ discovery | probably the smallest reptile on Earth
+Remaining questions | Why B. nana and its cousins are so small remains a mystery. 
 
 
 
