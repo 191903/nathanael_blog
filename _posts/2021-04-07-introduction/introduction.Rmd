@@ -1,0 +1,21 @@
+---
+title: "introduction"
+description: |
+  introduction au portfolio
+author:
+  - name: Nathanael Cossez
+    url: {}
+date: 04-07-2021
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: TRUE
+---
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
