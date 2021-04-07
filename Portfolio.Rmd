@@ -10,6 +10,8 @@ output: distill::distill_article
 
 >introduction
 
+[Introduction au portfolio](https://191903.github.io/nathanael_blog/posts/2021-04-07-introduction/)
+
 >Article 1
 
 [Florida’s falling lizards are getting used to cold winter temperatures](https://191903.github.io/nathanael_blog/posts/2020-10-25-article-1/)
@@ -47,3 +49,5 @@ output: distill::distill_article
 [A new chameleon species may be the world’s tiniest reptile](https://191903.github.io/nathanael_blog/posts/2021-03-17-article-bonus-2/)
 
 >Conclusion
+
+[Conclusion au portfolio](https://191903.github.io/nathanael_blog/posts/2021-04-07-conclusion/)
