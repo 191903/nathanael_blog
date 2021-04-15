@@ -12,6 +12,17 @@ output:
   distill::distill_article:
     self_contained: TRUE
 ---
+## Introduction
+
+welcome to my blog, I am nathanael cossez, a second year biology student in the university of Mons in Belgium and a lizard fan. I am carrying out this project as part of the English for science course in collaboration with sdd course as requested by my teacher Bénédicte Bouchet.
+
+The main subject of this blog is the analysis of scientific articles about lizards in general, but also little fun facts about them. but why did I choose this subject? firstly because I own a lizard myself (a leopard gecko called george) and secondly because reptiles (especially lizards) fascinate me and I wanted to learn more about them.
+
+ This portfolio is broken down into 7 main article and 2 bonus article, all of these articles were published between May 2020 and today. Each article contains a vocabulary table which I consider difficult and an analysis of the study concerning the article.
+ 
+By reading this blog you will surely learn a lot of things about our reptile friends "the lizards" (for example, on their physiological and physical aptitude) and will be surprised on the customs and habits of certain countries concerning them.
+
+I hope that reading this portfolio will make you appreciate our lizard friends as much as I do and make you realize the importance of these in biodiversity.
 
 
 
