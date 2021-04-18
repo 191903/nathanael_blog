@@ -2,7 +2,7 @@
   {
     "path": "posts/2021-04-18-bibliography/",
     "title": "Bibliography",
-    "description": {},
+    "description": "Bibliography of the portfolio",
     "author": [
       {
         "name": "Nathanaël Cossez",
@@ -14,7 +14,7 @@
       "English for Science"
     ],
     "preview": {},
-    "last_modified": "2021-04-18T17:25:31+02:00"
+    "last_modified": "2021-04-18T17:30:14+02:00"
   },
   {
     "path": "posts/2021-04-07-conclusion/",

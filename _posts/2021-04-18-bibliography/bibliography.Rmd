@@ -1,7 +1,7 @@
 ---
 title: "Bibliography"
 description: |
-  
+  Bibliography of the portfolio
 author:
   - name: Nathanaël Cossez
     url: {}
