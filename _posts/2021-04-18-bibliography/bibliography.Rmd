@@ -1,0 +1,40 @@
+---
+title: "Bibliography"
+description: |
+  
+author:
+  - name: Nathanaël Cossez
+    url: {}
+date: 04-18-2021
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: TRUE
+---
+
+## Bibliography
+
+All my source are here.
+
+[link 1](https://edition.cnn.com/2020/10/20/americas/falling-lizards-florida-scn-trnd/index.html)
+
+[link 2](https://www.binghamton.edu/news/story/2766/research-flashy-lizards-are-more-attractive-to-mates-and-to-predators)
+
+[link 3](https://www.thehindu.com/sci-tech/science/new-species-of-gecko-found-in-the-eastern-ghats/article33201561.ece)
+
+[link 4](https://www.smithsonianmag.com/smart-news/these-four-foot-lizards-will-eat-anything-and-theyre-invading-southeastern-us-180976350/?spMailingID=43945578&spJobID=1881605073&spReportId=MTg4MTYwNTA3MwS2&page=2&spUserID=MTA2MTUwMTExMjQ5NAS2)
+
+[link 5](https://science.anu.edu.au/news-events/news/study-reveals-surprising-history-worlds-largest-lizard)
+
+[link 6](https://www.vice.com/en/article/m7ade4/inside-the-sad-and-disgusting-black-market-trade-in-monitor-lizard-penis)
+
+[link 7](https://www.eurekalert.org/pub_releases/2021-02/fu-naf021521.php)
+
+[link 8](https://www.sciencenews.org/article/mountain-lizard-peru-broke-reptile-highest-altitude-record)
+
+[link 9](https://www.sciencenewsforstudents.org/article/new-tiny-chameleon-species-world-smallest-reptile)
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

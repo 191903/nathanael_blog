@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-04-18-bibliography/",
+    "title": "Bibliography",
+    "description": {},
+    "author": [
+      {
+        "name": "Nathanaël Cossez",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-18",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": {},
+    "last_modified": "2021-04-18T17:23:11+02:00"
+  },
+  {
     "path": "posts/2021-04-07-conclusion/",
     "title": "Conclusion",
     "description": "conclusion au portfolio",
